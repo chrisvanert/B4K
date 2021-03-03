@@ -289,6 +289,11 @@ a.btn-custom3:hover {
   background: rgb(2,0,36);
   background: linear-gradient(160deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 0%, rgba(140,191,63,1) 100%);
 }
+/* Contribute */
+#contribute{
+  background-color: #3F3F40;
+  color: #99DCF7;
+}
 
 /* Footer */
 .emailContain {
