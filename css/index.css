@@ -294,6 +294,12 @@ a.btn-custom3:hover {
   background-color: #3F3F40;
   color: #99DCF7;
 }
+/* Mission */
+#mission{
+  color: #3F3F40;
+  background-color: #99DCF7;
+}
+
 
 /* Footer */
 .emailContain {
