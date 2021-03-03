@@ -19,6 +19,23 @@ body {
   margin: 0;
 }
 
+/*text*/
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 42;
+}
+p1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 22;
+}
+p2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 34;
+}
+
 @media (min-width: 1400px) {
   .aboutText {
         font-size: 2rem !important;
@@ -250,6 +267,28 @@ a.btn-custom3:hover {
 
 
 
+/* Donate */
+.image{
+  width: 100%;
+  padding: 10px;}
+#donate{
+  background: rgb(2,0,36);
+  background: linear-gradient(160deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 0%, rgba(140,191,63,1) 100%);
+}
+.circles{
+  padding-top: 15px;
+  width: 128px;
+}
+#donate1{
+  background-color: #0475A2;
+}
+.centerText{
+  text-align: center;
+}
+#donate2{
+  background: rgb(2,0,36);
+  background: linear-gradient(160deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 0%, rgba(140,191,63,1) 100%);
+}
 
 /* Footer */
 .emailContain {
@@ -344,3 +383,6 @@ li.events {
   border-bottom: 1px solid #dadada;
   line-height: 2;
 }
+
+@media (min-width: 992px) {
+  
