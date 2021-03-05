@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g id="Group_1657" data-name="Group 1657" transform="translate(-143 -4421)">
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(143 4421)" fill="none" stroke="#99dcf7" stroke-width="3">
+      <circle cx="64" cy="64" r="64" stroke="none"/>
+      <circle cx="64" cy="64" r="62.5" fill="none"/>
+    </g>
+    <path id="Icon_material-email" data-name="Icon material-email" d="M68.25,6h-58a7.24,7.24,0,0,0-7.214,7.25L3,56.75A7.271,7.271,0,0,0,10.25,64h58a7.271,7.271,0,0,0,7.25-7.25V13.25A7.271,7.271,0,0,0,68.25,6Zm0,14.5-29,18.125L10.25,20.5V13.25l29,18.125,29-18.125Z" transform="translate(168 4450)" fill="#99dcf7"/>
+  </g>
+</svg>
